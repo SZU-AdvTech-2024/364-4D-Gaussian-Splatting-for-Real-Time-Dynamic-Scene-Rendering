@@ -1,0 +1,7 @@
+@inproceedings{REPO364,
+    author = "Wu, Guanjun and Yi, Taoran and Fang, Jiemin and Xie, Lingxi and Zhang, Xiaopeng and Wei, Wei and Liu, Wenyu and Tian, Qi and Wang, Xinggang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "20310--20320",
+    title = "{4d gaussian splatting for real-time dynamic scene rendering}",
+    year = "2024"
+}
